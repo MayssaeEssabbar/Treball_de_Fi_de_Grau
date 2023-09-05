@@ -10,11 +10,11 @@ El codi de la pipeline representa els diferents passos a dur a terme pel desenco
 
 ## Propòsit del codi del Notebook d'aprenentatge
 
-El codi del Notebook d'aprenentatge és una mena de llibreta amb explicacions, exemples i exercicis a dur a terme per aprentre conceptes bàsics de Python fins arribar a segmentar imatges i finalment presentar la pipeline. L'objectiu és permetre els estudiants que tinguin noción bàsiques de programació perquè arribin a entendre el funcionament bàsic d'un algortime basat en  Intel·ligència Artificial i relacionar-ho en l'àmbit mèdic.
+El codi del Notebook d'aprenentatge és una mena de llibreta amb explicacions, exemples i exercicis a dur a terme per aprentre conceptes bàsics de Python fins arribar a segmentar imatges i finalment presentar la pipeline. L'objectiu és permetre els estudiants que tinguin nocions bàsiques de programació perquè arribin a entendre el funcionament bàsic d'un algortime basat en  Intel·ligència Artificial i relacionar-ho en l'àmbit mèdic.
 
 ## Requeriments d'instal·lació
 
-Tant la pipeline com la llibreta d'aprenentatge es pot utilitzar sense cap instal·lació. Es poden carregar els codis al Google Colab i poder posar-los a provar lliurement. La pipeline requereix d'una carpeta de conjunt de dades que s'hauria de carregar juntament amb el codi en el Google Colab. Cal dir que pel desenvolupament dels codis s'ha realitzat en Jupyter Notebook, una plataforma s'ha hagt d'instal·lar. La pipeline consisteix en seguir i entendre les diferents etapes explicades i desenvolupades per entendre les accions del algortime per arribar a segmentar imatges mèdiques. 
+Tant la pipeline com la llibreta d'aprenentatge es pot utilitzar sense cap instal·lació. Es poden carregar els codis al Google Colab i poder posar-los a provar lliurement. La pipeline requereix d'una carpeta de conjunt de dades que s'hauria de carregar juntament amb el codi en el Google Colab. Cal dir que pel desenvolupament dels codis s'ha realitzat en Jupyter Notebook, una plataforma s'ha hagut d'instal·lar. La pipeline consisteix en seguir i entendre les diferents etapes explicades i desenvolupades per entendre les accions del algortime per arribar a segmentar imatges mèdiques. 
 
 ## Funcionament
 
