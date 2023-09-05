@@ -11,7 +11,7 @@ El codi del Notebook d'aprenentatge és una mena de llibreta amb explicacions, e
 
 ## Requeriments d'instal·lació
 
-Tant la pipeline com la llibreta d'aprenentatge es pot utilitzar sense cap instal·lació. Es poden carregar els codis al Google Colab i poder posar-los a provar lliurement. La pipeline requereix d'una carpeta de conjunt de dades que s'hauria de carregar juntament amb el codi en el Google Colab. Cal dir que pel desenvolupament dels codis s'ha realitzat en Jupyter Notebook, una plataforma s'ha hagt d'instal·lar.
+Tant la pipeline com la llibreta d'aprenentatge es pot utilitzar sense cap instal·lació. Es poden carregar els codis al Google Colab i poder posar-los a provar lliurement. La pipeline requereix d'una carpeta de conjunt de dades que s'hauria de carregar juntament amb el codi en el Google Colab. Cal dir que pel desenvolupament dels codis s'ha realitzat en Jupyter Notebook, una plataforma s'ha hagt d'instal·lar. La pipeline consisteix en seguir i entendre les diferents etapes explicades i desenvolupades per entendre les accions del algortime per arribar a segmentar imatges mèdiques. 
 
 ## Funcionament
 
