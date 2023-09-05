@@ -4,6 +4,7 @@ Disseny i creació de materials educatius i divulgatius relacionats amb la Intel
 ## Propòsit del codi de la Pipeline de Segmentació de Teixits cerebrals
 
 El codi de la pipeline representa els diferents passos a dur a terme pel desencolupament d'un algortime de segmentació en imatges de ressonància magnètica de teixits cerebrals: Substància Blanca, Substància Grisa i Líquid Cefalorraquidi. Aquesta pipeline es troba relacionada amb el notebook d'aprenentatge adjuntat que s'explicarà més endavant. Aquesta relació és per presentar un cas real i pràctic durant l'aprenentatge dels estudiants de com programant es pot arribar a desenvolupar una eina de segmentació d'imatges mèdiques.
+
 ![image](https://github.com/MayssaeEssabbar/Treball_de_Fi_de_Grau/assets/102362509/48ccd552-1c5b-4337-a876-d61b38ac3ea0)
 
 
